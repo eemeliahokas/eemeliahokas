@@ -18,11 +18,5 @@ I'm proficient in the following programming languages:
 - Java
 - Javascript
 
-## 📫 How to Reach Me
-
-If you'd like to get in touch with me, you can reach me via
-
-LinkedIn: https://www.linkedin.com/in/eemeli-ahokas-34392b184/
-Gmail: eemeli.ahokas@gmail.com
 
 Thanks for visiting my profile, and I look forward to connecting with you!
