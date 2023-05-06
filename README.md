@@ -21,6 +21,6 @@ I'm Eemeli, a Bachelor of Science in Computer Science based in Joensuu. I'm exci
 
 [1]:https://www.linkedin.com/in/eemeli-ahokas-34392b184/
 [2]: https://t.me/Eahokas
-[3]: mailto: eemeli.ahokas@gmail.com
+[3]: mailto:eemeli.ahokas@gmail.com
 
 Thanks for visiting my profile, and I look forward to connecting with you!
