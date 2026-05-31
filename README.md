@@ -1,6 +1,6 @@
 ### About me!
 
-I'm Eemeli, a Bachelor of Science in Computer Science based in Espoo. I'm excited to bring my skills and knowledge to a professional setting and continue to learn and grow in the field of computer science.
+I'm Eemeli, a Master of Science in Computer Science based in Espoo. I'm excited to bring my skills and knowledge to a professional setting and continue to learn and grow in the field of computer science.
 
 ### Skills:
 
